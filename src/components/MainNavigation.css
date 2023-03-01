@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #323a45;
+    padding: 1rem;
+}
+
+.header .link{
+    color: white;
+    text-decoration: none;
+    margin-left: 5rem;
+    padding: 1.2rem ;
+}
+.header .link:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 1.2rem ;
+}
+
+.logo{
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: white;
+    text-decoration: underline;
+}
